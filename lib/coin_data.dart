@@ -33,7 +33,7 @@ const List<String> cryptoList = [
 ];
 //${baseUrl}/BTC/USD?apikey=${kApiKey}
 class CoinData {
-  static const kApiKey='9A33082F-75A9-498C-847C-48698D450E70';
+  static const kApiKey='Use your own key😁';
   static const baseUrl='https://rest.coinapi.io/v1/exchangerate';
   String fromCur;
   List<String> conPrice=[];
